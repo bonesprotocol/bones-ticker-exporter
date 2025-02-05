@@ -1,0 +1,15 @@
+{
+  "name": "ticker-fetcher",
+  "version": "1.0.0",
+  "description": "A Node.js script to fetch and convert tickers from https://ord.bonesprotocol.com",
+  "main": "fetchTickers.js",
+  "scripts": {
+    "start": "node fetchTickers.js",
+    "test": "echo \"No tests provided\" && exit 0"
+  },
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+} 

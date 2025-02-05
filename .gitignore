@@ -1,0 +1,11 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore ticker output files
+tickers_*.json
+
+# Ignore environment variables file, if any
+.env
+
+# Ignore macOS system files
+.DS_Store 
